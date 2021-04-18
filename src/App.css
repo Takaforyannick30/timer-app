@@ -37,4 +37,13 @@
   }
 }
 
+.timer-p {
+  font-size: 1.3rem;
+}
 
+span {
+  font-size: 1.5rem;
+  background: #61dafb;
+  border-radius: 5px;
+  padding: 5px;
+}
